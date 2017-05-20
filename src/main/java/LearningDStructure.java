@@ -1,7 +1,8 @@
 public class LearningDStructure {
 	
-	public static void main(String args[]){
-		System.out.println("java");
+	public String concatString(){
+		return "A"+"B";
+		
 	}
 
 }
